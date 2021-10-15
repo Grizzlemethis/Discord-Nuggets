@@ -1,4 +1,4 @@
-Download Dino-nuggets-dark theme.rar
+Download nuggets.theme.css 
 
 Download BetterDiscord.
 
