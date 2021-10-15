@@ -1,3 +1,5 @@
+Download Dino-nuggets-dark theme.rar
+
 Download BetterDiscord.
 
 Drag the installer outside of your Downloads folder and run as Administrator.
